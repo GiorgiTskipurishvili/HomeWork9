@@ -24,12 +24,9 @@ namespace Homework9
         {
             if (!certified == true)
             {
-                return "I am certified";
+                return "I am not certified";
             }
-            //else
-            //{
-            //    return "I am not certified";
-            //}
+
 
 
             switch(subject)
